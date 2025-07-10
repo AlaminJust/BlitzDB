@@ -1,7 +1,7 @@
 ﻿// BlitzDB.cpp : Defines the entry point for the application.
 //
 
-#include "BlitzDB.h"
+#include "blitzdb.h"
 
 using namespace std;
 
